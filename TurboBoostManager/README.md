@@ -18,6 +18,6 @@ Or use the compiled executable:
 TurboBoostManager.exe
 ```
 
-Requirements
-Windows 10/11
-Administrator privileges
+## Requirements
+- Windows 10/11
+- Administrator privileges
