@@ -18,6 +18,14 @@ Or use the compiled executable:
 TurboBoostManager.exe
 ```
 
+## Building
+
+To compile the `.ps1` to `.exe`, run:
+```cmd
+compile.cmd
+```
+Requires PowerShell 7 (`pwsh`) and the `ps2exe` module (auto-installed if missing).
+
 ## Requirements
 - Windows 10/11
 - Administrator privileges

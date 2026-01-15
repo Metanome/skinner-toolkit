@@ -1,4 +1,4 @@
-# skinner-toolkit
+# Skinner Toolkit
 
 Dr. Skinner's personal toolkit: utilities that condition your system to behave.
 
@@ -10,4 +10,4 @@ Dr. Skinner's personal toolkit: utilities that condition your system to behave.
 
 ## License
 
-[MIT](./LICENSE)
+[GNU General Public License v3.0](./LICENSE)
